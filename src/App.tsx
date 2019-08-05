@@ -8,6 +8,7 @@ const App: React.FC = () => {
         <img src="/assets/logo-white-text.png" className="App-logo" alt="logo" width="50%" />
         <p>
           Welcome to CUBETIQ Open Source.
+          Hello PeeThanuk
         </p>
         <a
           className="App-link"
